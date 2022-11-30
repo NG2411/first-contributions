@@ -204,7 +204,7 @@
 - [Pablo Alejandro](https://github.com/Pabloalesca)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Hades Ho](https://github.com/hadeshojr)
-- [Mickhat](https://github.com/Mickhat)
+-[Nayan Gogari@ DevSoc PI] (https://github.com/NG2411)
 - [Mohit Bishwokarma](https://github.com/Mohitbishukarma)
 - [Matt Arias](https://github.com/FreedSoul)
 - [Alex Song](https://github.com/TheRealAlexSong)
