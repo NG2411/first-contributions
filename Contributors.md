@@ -277,7 +277,7 @@
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
 - [Dhiraj Suthar](https://github.com/Dhiraj5789)
-- [plaguss](https://github.com/plaguss)
+- -[Nayan Gogari@ DevSoc PI] (https://github.com/NG2411)
 - [Rafiqul Shopon](https://github.com/rafiqulshopon)
 - [verissimon](https://github.com/verissimon)
 - [DragonFireShield](https://github.com/dragonfireshield)
